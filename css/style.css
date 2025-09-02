@@ -5,8 +5,7 @@ body {
   font-weight: 300;
   font-size: 1rem;
   background: radial-gradient(circle at center, rgba(48, 142, 171, 0.209), rgba(33, 224, 4, 0.13)), url('../images/img_1.jpg') center center fixed;
-  background-size: auto auto; /* Přizpůsobení šířce */
-  background-position: fixed;
+  background-size: 100% auto; /* Přizpůsobení šířce */
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
 }
